@@ -128,3 +128,8 @@ Vital signs
 Laboratory results
 
 Real-time patient monitoring .... would be required.
+
+# Conclusion 
+This project demonstrates how machine learning and explainable AI can be used to analyze hospital patient data and identify patterns associated with ICU utilization.
+
+By combining predictive modeling with transparent explanations, healthcare organizations can gain insights that support better patient care and hospital resource management.
